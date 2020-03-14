@@ -1,4 +1,13 @@
 #logoimg{
 	width: 30%;
 	height: auto;
+	float: left;
+	padding-right: 30%;
+	far-left: true;
+}
+
+#mainmenu{
+	list-style-type: none;
+	float: right;
+	
 }
